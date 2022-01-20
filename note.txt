@@ -1,0 +1,15 @@
+header time
+default color
+section background color
+google font
+section title hr
+tailwind css
+
+h1 space using google font
+
+cv
+  contact dynamic...using props
+
+  #write something on video editing
+
+mobile and tab h1 font size small
